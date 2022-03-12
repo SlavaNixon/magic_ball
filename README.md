@@ -1,6 +1,5 @@
-# Project Title
+# Magic Ball
 
-## Table of Contents
 
 - [О приложении](#about)
 - [Установка](#getting_started)
