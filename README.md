@@ -13,7 +13,7 @@
 ## Getting Started <a name = "getting_started"></a>
 
 Чтобы запустить данное приложение Вам понадобится Ruby интерпретатор.
-Установить его можно ![отсюда](https://rubyinstaller.org/)
+Установить его можно [отсюда](https://rubyinstaller.org/)
 
 ## Usage <a name = "usage"></a>
 
